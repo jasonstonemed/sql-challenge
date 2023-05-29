@@ -1,2 +1,3 @@
 # sql-challenge
-Mod 9 Challenge
+
+# Data input from csv files that were imported into a server where tables were created. Mistakes were made when constructing the ERD and PK, RK were left out. Although the tables were created using the ERD diagram maker (https://app.quickdatabasediagrams.com/), the keys were added after the fact using ALTER TABLE; this code was lost. All queries ran successfully from tables keyed with the ALTER method. To establish the ERD relationships between tables in the diagram, the PK/FK were added (see Complete ERD) and these tables were then imported into "schemata." My methodology was poor, but I also didn't understand the process at first.
